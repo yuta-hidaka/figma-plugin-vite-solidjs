@@ -90,8 +90,8 @@ function main() {
   // when figma"s selection has been changed
   figma.on("selectionchange", () => {
     const currentNode = figma.currentPage.selection;
-
-    console.log();
+    console.log("Selection changed !");
+    console.log("Selected node is: ", currentNode);
   });
 
   figma.ui.onmessage = onMessage;
