@@ -1,0 +1,9 @@
+{
+  "name": "solid-figma-plugin",
+  "id": "0000000000000000000",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "permissions": [],
+  "main": "dist/code.js",
+  "ui": "dist/index.html"
+}
