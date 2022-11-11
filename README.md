@@ -14,6 +14,7 @@ You just run `yan dev`
 
 # Folder structure
 
+```bash
 ROOT
 ├── README.md
 ├── dist              # The files build by Vite
@@ -21,11 +22,12 @@ ROOT
 │   └── index.html
 ├── manifest.json.    # Infomation about Figma plugin
 ├── src
-│   ├── app.tsx       # Figma API's main component
+│   ├── app.tsx       # Figma Plugin's main component
 │   ├── index.html    # Load app.tsx file
 │   └── main.ts       # Listen event from Figma plugin and execution figma API
 ├── tsconfig.json  
 └── vite.config.ts.   # vite config
+```
 
 # Add plugin to Figma
 
