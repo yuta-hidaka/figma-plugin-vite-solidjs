@@ -12,6 +12,21 @@ yarn install
 
 You just run `yan dev`
 
+# Folder structure
+
+ROOT
+├── README.md
+├── dist              # The files build by Vite
+│   ├── code.js
+│   └── index.html
+├── manifest.json.    # Infomation about Figma plugin
+├── src
+│   ├── app.tsx       # Figma API's main component
+│   ├── index.html    # Load app.tsx file
+│   └── main.ts       # Listen event from Figma plugin and execution figma API
+├── tsconfig.json  
+└── vite.config.ts.   # vite config
+
 # Add plugin to Figma
 
 1. Open Figma App.
