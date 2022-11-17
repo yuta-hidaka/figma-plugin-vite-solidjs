@@ -45,6 +45,6 @@ figma-plugin-vite-solidjs
 
 
 5. You can try or customize figma plugin.
-<img width="1489" alt="image" src="https://user-images.githubusercontent.com/46583585/201302009-f0e1304a-ef9c-4730-99cc-b108450cb286.png">
+<img width="1489" alt="201302009-f0e1304a-ef9c-4730-99cc-b108450cb286" src="https://user-images.githubusercontent.com/46583585/202401496-7a8dcc9e-6262-413a-8156-8a06dc50149e.png">
 
 
